@@ -32,7 +32,7 @@ namespace lab05
         }
         private static int div(int a, int b)
         {
-            throw new NullReferenceException();
+            throw new FileNotFoundException();
         }
     }
 }
